@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sxzuu
 - 👀 I’m interested in Python
 - 🌱 Pyside6 and PyQt5 enjoyer
-- 💞️ I’m looking to collaborate on VSS CLicker
+- 💞️ looking for mates
 - 📫 How to reach me discord : SxZuu#3712
 
 <!---
